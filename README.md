@@ -1,5 +1,3 @@
-# socioeconomic_data_analysis_project
-A collection of 4 projects analyzing Indian states using socioeconomic indicators
 # Socioeconomic Data Analysis – Indian States 🇮🇳
 
 This repository contains 4 Python-based data analysis projects using socioeconomic indicators from Indian states:
